@@ -16,3 +16,9 @@ Build foundational Linux operational skills.
 - Practiced file and directory operations (cp, mv, rm)
 - Learned safe deletion habits for operations
 - Used find to locate and verify files before removal
+
+## DAY3
+- Learned Linux permission model (owner, group, others)
+- Practiced chmod (symbolic and numberic)
+- Understood ownership issues and permissio denied errors
+- Learned how umask affects default permissions
